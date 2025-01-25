@@ -1,0 +1,17 @@
+                        <!-- <li>
+                            <img class="invert" src="img/music.svg" alt="">
+                            <div class="info">
+                                <div>song Name</div>
+                                <div>Artist Name</div>
+                            </div>
+                            <div class="playnow">
+                                <span>Play Now</span>
+                                <img class="invert" src="img/play.svg" alt="">
+                            </div>
+                        </li> -->
+
+
+                        console.log(e.querySelector(".info").firstElementChild.innerHTML)
+
+
+                        songs = 
